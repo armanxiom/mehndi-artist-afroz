@@ -6,7 +6,7 @@ export default function Instagram() {
     { id: 1, url: "https://i.postimg.cc/9FZGgctw/sa-ka-ra-nasa-ta-2026-03-26-224704.png", likes: "1.2k", comments: "45" },
     { id: 2, url: "https://i.postimg.cc/Fsr98Z00/sa-ka-ra-nasa-ta-2026-03-26-225000.png", likes: "850", comments: "32" },
     { id: 3, url: "https://i.postimg.cc/jSWrYk26/sa-ka-ra-nasa-ta-2026-03-26-225127.png", likes: "2.1k", comments: "88" },
-    { id: 4, url: "https://images.unsplash.com/photo-1590159763121-7c9fd312190d?q=80&w=1974&auto=format&fit=crop", likes: "940", comments: "21" },
+    { id: 4, url: "https://i.postimg.cc/YCBLjSyM/b82acd061c8b71b0e05222d26675c238.jpg", likes: "940", comments: "21" },
   ];
 
   return (
